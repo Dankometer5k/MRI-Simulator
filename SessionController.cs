@@ -62,7 +62,6 @@ namespace UnityCore {
 
 #region Private Functions
             /// <summary>
-            /// Initialize the singleton pattern!
             /// </summary>
             private void Configure() {
                 if (!instance) {
